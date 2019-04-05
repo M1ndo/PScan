@@ -9,13 +9,13 @@ $ cd PScan
 $ python3 PScan.py 
 ```
 ## ScreenShot && Usage :
-<img src="https://i.ibb.co/7v56bpQ/PScan.png" alt="PScaner" border="0">
+<img src="https://i.ibb.co/71dacvb/PScaner.png" alt="PScan" border="0">
 
 <p align="center">
-<a href="https://asciinema.org/a/2234342">
-<img src="https://asciinema.org/a/2234342.svg">
+<a href="https://asciinema.org/a/223432">
+<img src="https://asciinema.org/a/233432.svg">
 </a>
 </p>
 
 # Author 
-## _ybenel
+## ybenel

@@ -69,7 +69,7 @@ class Core(object):
     print("        "+bcolors.unknown19+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
     print("        "+bcolors.unknown18+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
     print("        "+bcolors.Blue+"                   "+bcolors.unknown+"["+bcolors.unknown15+"PScan"+bcolors.unknown+"]"+bcolors.unknown+"         ")
-    print("     "+bcolors.purple+"             "+bcolors.unknown+"["+bcolors.unknown9+"Created By ybenel"+bcolors.unknown+"]"+bcolors.unknown+"    "+bcolors.Reset+"\n")
+    print("     "+bcolors.purple+"             "+bcolors.unknown+"["+bcolors.unknown9+" Created By ybenel"+bcolors.unknown+"]"+bcolors.unknown+"    "+bcolors.Reset+"\n")
     def GetData(self, url):
         self.url = url
         try:
